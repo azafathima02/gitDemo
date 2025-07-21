@@ -1,0 +1,29 @@
+-----------------------------------------------------------------
+----------------------- GIT & GITHUB ----------------------------
+-----------------------------------------------------------------
+   GIT- It is a tool installed in he system to do operations in Github.
+   GITHUB- Cloud based platforms for developers to store and manage data.
+
+   advantages:
+        1. to store code:
+                     =>Private:only owner can view the repository
+                     =>Public :anyone can vie the repository
+        2. to share code
+        3. Hosting - minor projects
+        4. Version controller system - it can hold each version of code
+    Repository : its a space to store data
+
+           Git- local repository
+           Github- Remote Repository
+
+    Git operations
+    --------------
+        1. push: to add  code to the repository
+               : local repo to remote repo
+        2. clone: to download the entire code 
+                : remote repo to local repo
+        3. pull : to download updated code.
+                : remote repo to local repo        
+
+    Push operations
+    ------------------                                      
